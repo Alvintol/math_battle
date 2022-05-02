@@ -20,7 +20,7 @@
 
 ## Game = 
 #   Initialize:
-#     turn_number: (0)
+#     turn_number: (0) || no longer needed
 #     
 #   Methods:
 #     - checks_zero : (true/false) T=new turn F=game_over?

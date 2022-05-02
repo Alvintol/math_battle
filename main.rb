@@ -1,4 +1,7 @@
 require './player'
 require './game'
+require './turn'
 
-start
+
+new_game = Game.new()
+new_game.start
